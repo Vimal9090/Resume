@@ -75,13 +75,4 @@ img{
 }
 
 
-@media (max-width: 1200px){
-    #main-resume{
-        margin: 100px 0 0 130px;
-    }
-}
-@media (max-width: 780px){
-    #main-resume{
-        margin: 100px 0 0 0;
-    }
-}
+
