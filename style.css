@@ -1,0 +1,80 @@
+h1{
+    color: white;
+    font-size: 90px;
+}
+h2{
+    color: white;
+}
+h3{
+    color: white;
+}
+h4{
+    color: white;
+}
+hr{
+    color: white;
+    width: 700px;
+}
+a{
+    color: yellowgreen;
+}
+
+#main-resume{
+    width: 720px;
+    height: 1520px;
+    background-color: black;
+    margin: auto;
+    padding: 25px;
+}
+#resume{
+    width: 700px;
+    height: 1500px;
+    margin: 4px;
+    background-color: black;
+    border: 4px solid white;
+    position: relative;
+}
+#header{
+    display: flex;
+    flex-direction: column;
+}
+#first-header{
+    display: flex;
+}
+.header1{
+    margin-left: 25px;
+}
+.header2{
+    margin-left: 350px;
+}
+#second-header{
+    display: flex;
+    margin-bottom: 30px;
+}
+
+img{
+    width: 160px;
+    border-radius: 48%;
+    margin-left: 30px;
+}
+.name{
+    margin: 0 0 0  50px;
+    height: 100px;
+}
+.name h1{
+    margin: 0;
+}
+#skills{
+    display: flex;
+    margin: 50px 0;
+}
+.heading{
+    margin-left: 25px;
+}
+#resume .item{
+    position: absolute;
+    left: 230px;
+}
+
+
+
